@@ -1,2 +1,2 @@
-# product-configuration-2019-amsci
-Second project - Product configuration
+# Product configuration
+Second project by amsci
