@@ -1,0 +1,121 @@
+body {
+	font-family: sans-serif;
+	background-color: #f0f0f0;
+	color:#ffffff;
+	margin: 0px;
+	overflow: hidden;
+	scrollbar-width: none;
+}
+
+.header {
+    position: absolute;
+    padding: 20px 50px;
+    background: rgba(0,0,0,0);
+    color: rgba(100, 100, 100, .9);
+    font-size: 16px;
+  }
+
+.button {
+    width: 50px;
+    height: 50px;
+    padding: 5px;
+    background-color: rgba(250, 250, 250, 0.4);
+    position: absolute;
+    right: 30px;
+    background-position: center;
+    background-repeat: no-repeat;
+    cursor: pointer;
+    opacity: 0.6;
+    z-index: 1;
+}
+
+.button:hover {
+    opacity: 1;
+    box-shadow: 0 0 5px 2px rgb(176, 176, 176);;
+}
+
+.button-description {
+    white-space: nowrap;
+    position: absolute;
+    right: 50%;
+    background-color: rgba(250, 255, 250, 0);
+    transition: right 200ms, opacity 200ms;
+    opacity: 0;
+    visibility: hidden;
+    padding: 10px;
+}
+
+.button:hover .button-description {
+    visibility: visible;
+    right: 125%;
+    opacity: 0.75;
+}
+
+.button-description p {
+    padding: 0;
+    margin: 0;
+    color: rgba(50, 50, 50, 1);
+    font-size: 18px;
+}
+
+#add_to_cart {
+    bottom: 30px;
+    background-image: url("icons/cart2.png");
+    background-size: 60%;
+}
+
+#home {
+    bottom: 100px;
+    background-image: url("icons/home.png");
+    background-size: 60%;
+}
+
+
+.dropdown {
+    width: 90px;
+    white-space: nowrap;
+    color: black;
+    padding: 15px;
+    background-color: rgba(255, 255, 255, 0.6);
+    position: absolute;
+    left: 30px;
+    cursor: pointer;
+    opacity: 0.8;
+    font-size: 18px;
+    /* transition: opacity 200ms; */
+    z-index: 1;
+    text-align: center;
+    border: none;
+}
+
+.dropdown-content {
+    visibility: hidden;
+    position: absolute;
+    top: 0px;
+    left: 80%;
+    background-color: rgba(255, 255, 255, 0.6);
+    min-width: 160px;
+    box-shadow: 0 0 5px 2px rgb(176, 176, 176);
+    transition: left 100ms, opacity 100ms;
+    z-index: 1;
+    font-size: 16px;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {
+    background-color: rgba(255, 255, 255, 1);
+}
+.dropdown:hover .dropdown-content {
+    left: 100%;
+    visibility: visible;
+}
+.dropdown:hover {
+    opacity: 1;
+    box-shadow: 0 0 5px 2px rgb(176, 176, 176);;
+}
