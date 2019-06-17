@@ -4,8 +4,8 @@ Second project by amsci
 ## Description
 This is a simple 3D product configurator for ACME ecommerce platform. It allows the user to customise an alarm clock and add it to the cart. The configurator offers a selection of materials for the case, the bells, the face and the hands of the alarm clock.
 ## Usage
-- Open index.html with a browser (tested only on Edge)
-- Wait for the components of the alarm clock to load
+- Open index.html with a browser (tested on Chrome and Edge)
+- Wait for the components of the alarm clock to be loaded
 - Use the buttons on the left to customise the product
 
 ## Files
