@@ -5,3 +5,5 @@ textures/whiteMarble_normal.jpg
 textures/whiteMarble_roughness.jpg
 textures/whiteMarble_displacement.jpg
 textures/whiteMarble_specular.jpg
+js/setting.js
+js/objects.js
