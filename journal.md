@@ -14,7 +14,7 @@
 - Loaded all the components of the model with these new materials
 - Made buttons to change the materials of some components
 
-- TODO: add shadows on the object (!)
-- TODO: make different shaders for different types of material
-- TODO: improve model (make better uv maps, fix holes and overlaps)
-- TODO: improve user interface (make instructions, keep track of selected items, add loading animation)
+- Added ambient occlusion on objects
+- Added some materials and base for the clock
+- Fixed UV maps and filled the holes in the model
+- Added environment lighting

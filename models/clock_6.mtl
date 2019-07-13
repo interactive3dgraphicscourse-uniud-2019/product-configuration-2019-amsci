@@ -1,0 +1,88 @@
+# Blender MTL File: 'clock.blend'
+# Material Count: 8
+
+newmtl white
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Antonio MS\OneDrive - Universita degli Studi di Udine\3D graphics\Corso di grafica 3D interattiva\Progetti\product-configuration-lab\Blender\base_ao.png
+
+newmtl white_NONE
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl white_Stand_r_ao
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl white_bell_l_ao
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Antonio MS\OneDrive - Universita degli Studi di Udine\3D graphics\Corso di grafica 3D interattiva\Progetti\product-configuration-lab\Blender\bell_l_ao.png
+
+newmtl white_bell_r_ao
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Antonio MS\OneDrive - Universita degli Studi di Udine\3D graphics\Corso di grafica 3D interattiva\Progetti\product-configuration-lab\Blender\bell_r_ao.png
+
+newmtl white_case_ao
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Antonio MS\OneDrive - Universita degli Studi di Udine\3D graphics\Corso di grafica 3D interattiva\Progetti\product-configuration-lab\Blender\case_ao.png
+
+newmtl white_face_ao
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Antonio MS\OneDrive - Universita degli Studi di Udine\3D graphics\Corso di grafica 3D interattiva\Progetti\product-configuration-lab\Blender\face_ao.png
+
+newmtl white_stand_r_ao
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Antonio MS\OneDrive - Universita degli Studi di Udine\3D graphics\Corso di grafica 3D interattiva\Progetti\product-configuration-lab\Blender\stand_r_ao.png
